@@ -3,7 +3,7 @@
 BallPlayerBehaviour module
 Research done by: AobaSuzukaze and Giovani1906 
 Requires: sider.dll
-Requires PES version 1.01.00
+Requires PES 2021 version 1.01.00
 =========================
 --]]
 
